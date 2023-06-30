@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/pluzarev-nemanja)
+![Alt Text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Nemanja Plužarev</h1>
 <h3 align="center">A self-taught,passionate Android developer from Serbia</h3>
-<img align="right" src="https://i.gifer.com/W9kX.gif" alt="pluzarev-nemanja" />
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pluzarev-nemanja&label=Profile%20views&color=0e75b6&style=flat" alt="pluzarev-nemanja" /> </p>
 
