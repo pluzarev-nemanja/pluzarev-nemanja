@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pluzarev-nemanja&label=Profile%20views&color=0e75b6&style=flat" alt="pluzarev-nemanja" /> </p>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m currently working on **Ktor watches app**
 
-- 🌱 I’m currently learning **Jetpack Compose,Android programming**
+- 🌱 I’m currently learning **Ktor,Heroku**
 
 - 💬 Ask me about **Kotlin,Android,MVVM**
 
 - 📫 How to reach me **pluzarev.nemanja@gmail.com**
 
-- ⚡ Fun fact **I like learning new things**
+- ⚡ Fun fact **I like watchmaking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
