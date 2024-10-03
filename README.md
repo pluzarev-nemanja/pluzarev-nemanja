@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pluzarev-nemanja&label=Profile%20views&color=0e75b6&style=flat" alt="pluzarev-nemanja" /> </p>
 
-- 🔭 I’m currently working on **Ktor watches app**
+- 🔭 I’m currently working on KMP 🚀
 
-- 🌱 I’m currently learning **Ktor**
+- 🌱 I’m currently learning Swift/Swfit UI
 
-- 💬 Ask me about **Kotlin,Android,MVVM**
+- 💬 Ask me about **Kotlin,Android,MVVM,Multi Module**
 
 - 📫 How to reach me **pluzarev.nemanja@gmail.com**
 
